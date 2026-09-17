@@ -289,13 +289,13 @@ image-to-editable-ppt/
 
 标准图标默认从 IconPark、Remix Icon 或 Lucide 等候选库中选择，并根据页面风格、资源可达性和许可证可追溯性确定具体来源。使用任何第三方图标时，应保留图标库、图标 ID、版本、许可证和内容哈希等元数据。
 
-本仓库当前未声明统一的开源许可证。公开发布前，请根据你的授权意图补充 <code>LICENSE</code> 文件，并确认随 skill 分发的第三方资源符合相应许可证要求。
+本仓库当前未附带统一的开源许可证。源文件、规则和随附代码的复制、修改与再分发，请以作者另行发布的授权说明为准；第三方图标、字体和图片等资源遵循其各自的许可证。
 
-### 13. 作者
+### 13. 作者与反馈
 
-**圣婴**
+本项目由 **圣婴** 设计，目标是让静态幻灯片参考页重新成为可持续编辑、可验证的 PowerPoint 工作资产。
 
-如果你发现重构规则、编辑性判断或视觉校准流程存在可改进之处，欢迎通过 Issue 或 Pull Request 提交具体案例、输入页面、渲染结果和改进建议。
+如果你在使用中遇到重构、编辑性或视觉校准问题，可以通过 GitHub Issue 描述输入类型、运行环境、问题对象和预期结果；具体案例和改进建议也欢迎通过 Pull Request 分享。
 
 ---
 
@@ -566,10 +566,10 @@ The host runtime must be able to inspect images, write native PPTX objects, rend
 
 Standard icons may be selected from candidates such as IconPark, Remix Icon, and Lucide according to visual fit, resource availability, and license traceability. For every third-party icon, retain the library, icon ID, version, license, and content hash in the task metadata.
 
-This repository does not currently declare a single open-source license. Before public distribution, add a <code>LICENSE</code> file that matches your intended terms and verify that all bundled third-party assets comply with their licenses.
+This repository currently does not include a unified open-source license. Copying, modifying, or redistributing the source files, rules, and bundled code is subject to the author’s applicable authorization terms; third-party icons, fonts, and images remain subject to their respective licenses.
 
-### 13. Author
+### 13. Author and Feedback
 
-**圣婴**
+Designed by **圣婴**, this project aims to turn static slide references into PowerPoint assets that remain editable, verifiable, and reusable.
 
-Suggestions are welcome through Issues or Pull Requests. When reporting a reconstruction issue, include the source page, rendered result, the affected object or region, and the proposed improvement when possible.
+If you encounter a reconstruction, editability, or visual-calibration issue, open a GitHub Issue with the input type, runtime environment, affected object or region, and expected result. Concrete cases and improvements are also welcome through Pull Requests.
