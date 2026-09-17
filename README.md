@@ -13,7 +13,14 @@
 **中文名称：** 图片转可编辑 PPT  
 **作者 / Author：** 圣婴
 
+### 语言选择 / Language Selection
+
+- [中文文档 / Chinese Documentation](#zh)
+- [English Documentation / 英文文档](#en)
+
 ---
+
+<a id="zh"></a>
 
 ## 中文
 
@@ -292,6 +299,8 @@ image-to-editable-ppt/
 
 ---
 
+<a id="en"></a>
+
 ## English
 
 ### 1. Overview
@@ -564,4 +573,3 @@ This repository does not currently declare a single open-source license. Before 
 **圣婴**
 
 Suggestions are welcome through Issues or Pull Requests. When reporting a reconstruction issue, include the source page, rendered result, the affected object or region, and the proposed improvement when possible.
-
